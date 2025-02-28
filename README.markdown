@@ -1,6 +1,3 @@
----
-title: Multivariate Gaussian Visualization
----
 
 This project provides an interactive visualization of a 2D Multivariate
 Gaussian distribution using Python, Matplotlib, and `ipywidgets`. You
